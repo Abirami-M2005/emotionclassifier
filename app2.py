@@ -1,5 +1,5 @@
 
-Type "help", "copyright", "credits" or "license()" for more information.
+
 >>> import streamlit as st
 ... import joblib
 ... 
